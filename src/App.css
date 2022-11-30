@@ -1,0 +1,128 @@
+/* .main {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 0;
+}
+
+img {
+    width: 23.5rem;
+    height: 15.6rem;
+}
+
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.cards_item {
+    display: flex;
+    height: 100%;
+    max-width: 400px;
+    min-width: 200px;
+    padding: 1rem;
+}
+
+
+
+@media (min-width: 40rem) {
+    .cards_item {
+        max-width: 50%;
+    }
+}
+
+@media (min-width: 56rem) {
+    .cards_item {
+        max-width: 33.3333%;
+    }
+}
+
+.card {
+    background-color: white;
+    border-radius: 0.25rem;
+    box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.card_content {
+    padding: 1rem;
+    background: linear-gradient(to bottom left, #EF8D9C 40%, #FFC39E 100%);
+    text-align: center;
+}
+
+.card_title {
+    color: #ffffff;
+}
+ */
+
+
+
+
+/* View Product Container CSS */
+
+/* .cropImg {
+    width: 35.5rem;
+    height: 20.6rem;
+}
+
+.cardView {
+    background-color: white;
+    border-radius: 0.25rem;
+    box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+    flex-direction: column;
+    overflow: hidden;
+
+    max-width: 571px;
+    min-width: 200px;
+
+} */
+
+
+.row {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+img {
+    width: 335px;
+    height: 15rem;
+}
+
+.cropImg {
+    height: 320px;
+}
+
+.readMoreClassName {
+    color: #FF8E00;
+}
+
+.readLessClassName {
+    color: #FF8E00;
+}
+
+.card_title {
+    color: #1edf35;
+}
+
+.Virus-Name {
+    color: gray;
+}
+
+.card {
+    box-shadow: 2px 3px 3px rgb(190, 187, 187);
+}
+
+#Search {
+    border-radius: 3px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+ color: #000000 !important;
+}
